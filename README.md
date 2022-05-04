@@ -8,6 +8,8 @@ This is a demo of how I would go about using LazyColumn and a ModalBottomSheetLa
 Here's a diagram:
 
 
+
+```
 /*
                         ┌────────────┐
                         │            │
@@ -45,3 +47,4 @@ Here's a diagram:
    │            │      to                     │              │
    └────────────┘                             └──────────────┘
  */
+ ```
